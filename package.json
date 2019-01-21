@@ -1,0 +1,30 @@
+{
+  "name": "02_03_eslint",
+  "version": "1.0.0",
+  "description": "testing eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evb0110/02_03_eslint.git"
+  },
+  "keywords": [
+    "eslint",
+    "javascript",
+    "netology"
+  ],
+  "author": "eugene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evb0110/02_03_eslint/issues"
+  },
+  "homepage": "https://github.com/evb0110/02_03_eslint#readme",
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
